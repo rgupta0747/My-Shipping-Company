@@ -1,0 +1,1 @@
+This is a dummy project that was built during my first year as a CS undergraduate student. I built this project as a way to enhance my Python3 skills and make me a better student. I will continue to improve and optimize this code for later use if it seems worth revisiting.
